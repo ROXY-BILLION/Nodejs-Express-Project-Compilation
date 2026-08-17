@@ -20,6 +20,13 @@ app.get("/tasks/:id", (req, res) => {
     const result = tasks.find((task) => {
         return task.id === id;
     });
+    if (!result) {
+        return (
+            res.status(404).json({
+                message: "Task not found"
+            })
+        )
+    }
 
     res.json(result);
 });
