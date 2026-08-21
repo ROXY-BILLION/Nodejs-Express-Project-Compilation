@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 45000,
+    "stock": 25,
+    "brand": "SoundMax",
+    "rating": 4.5
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 65000,
+    "stock": 18,
+    "brand": "KeyPro",
+    "rating": 4.7
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "category": "Electronics",
+    "price": 35000,
+    "stock": 30,
+    "brand": "GameTech",
+    "rating": 4.4
+  },
+  {
+    "name": "Smart Watch Series 5",
+    "category": "Wearables",
+    "price": 85000,
+    "stock": 12,
+    "brand": "TechTime",
+    "rating": 4.6
+  },
+  {
+    "name": "USB-C Fast Charger",
+    "category": "Accessories",
+    "price": 18000,
+    "stock": 45,
+    "brand": "PowerHub",
+    "rating": 4.3
+  },
+  {
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 28000,
+    "stock": 35,
+    "brand": "UrbanPack",
+    "rating": 4.5
+  },
+  {
+    "name": "Running Sneakers",
+    "category": "Footwear",
+    "price": 55000,
+    "stock": 20,
+    "brand": "SpeedRun",
+    "rating": 4.6
+  },
+  {
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 12000,
+    "stock": 60,
+    "brand": "UrbanWear",
+    "rating": 4.2
+  },
+  {
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "price": 30000,
+    "stock": 40,
+    "brand": "DenimPro",
+    "rating": 4.4
+  },
+  {
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 15000,
+    "stock": 50,
+    "brand": "LeatherCraft",
+    "rating": 4.5
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 42000,
+    "stock": 22,
+    "brand": "SoundMax",
+    "rating": 4.6
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "category": "Lifestyle",
+    "price": 10000,
+    "stock": 75,
+    "brand": "HydroLife",
+    "rating": 4.3
+  },
+  {
+    "name": "Office Laptop Stand",
+    "category": "Office",
+    "price": 24000,
+    "stock": 28,
+    "brand": "WorkPro",
+    "rating": 4.5
+  },
+  {
+    "name": "LED Desk Lamp",
+    "category": "Office",
+    "price": 16000,
+    "stock": 32,
+    "brand": "BrightDesk",
+    "rating": 4.4
+  },
+  {
+    "name": "External SSD 1TB",
+    "category": "Storage",
+    "price": 95000,
+    "stock": 15,
+    "brand": "DataDrive",
+    "rating": 4.8
+  }
+]
